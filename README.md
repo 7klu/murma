@@ -5,7 +5,7 @@
 > [!NOTE]
 > The predictions made by Murma are probabilistic and not 100% accurate — as reflected in the performance metrics — but they provide useful approximations for analysis and exploration.
 
----
+<br/>
 
 ## `🧠` What Murma Can Estimate From Your Voice:
 
@@ -21,7 +21,7 @@
 | **Parkinson’s disease**          | CNN (InceptionV3 on spectrograms)                            | AUC 0.9125; accuracy 91.1%                     |
 | **Emotion / Stress**             | GRU + MFCC (IEMOCAP dataset)                                 | Accuracy 97.47%                                |
 
----
+<br/>
 
 ## `⚙️` Technology
 
@@ -29,17 +29,17 @@ Murma is primarily written in **C**, with integrations of signal processing libr
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) 
 
----
+<br/>
 
 ## `🚧` Status
 
 The project is under active development. Many of the predictive models are based on state-of-the-art research, adapted into an efficient, real-time analysis pipeline.
 
----
+<br/>
 
 > [!WARNING]
 > Murma is **not a medical diagnostic tool**. It is intended for research and educational purposes only. Always consult a healthcare professional for medical concerns.
 
----
+<br/>
 
 Stay tuned — more voice-based insights coming soon.
