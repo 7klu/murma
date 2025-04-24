@@ -1,0 +1,28 @@
+# Ignorer les paramètres spécifiques de VSCode
+.vscode/
+
+# Ignorer les fichiers compilés et les artefacts générés
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dll
+*.dylib
+
+# Ignorer les fichiers de configuration de VSCode (settings.json, etc.)
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Ignorer les fichiers de sauvegarde
+*~
+*.swp
+*.bak
+
+# Ignorer les répertoires de compilation
+build/
+dist/
+
+# Ignorer les fichiers liés aux IDE (Xcode, Eclipse, etc.)
+.idea/

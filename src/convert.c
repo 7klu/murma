@@ -3,7 +3,7 @@
 #include <string.h>
 
 
-const char* get_format(const char *path) {
+const char *get_format(const char *path) {
 
   const char *ext = strrchr(path, '.');
   return ext != NULL ?  ext + 1 : NULL;
