@@ -1,4 +1,4 @@
-# 💡 Health Risk Estimations Based on Voice Analysis
+# 💡 Health Risk Estimations Based on Voice Analysis (Without AI and high technology, just with calculations)
 
 This document summarizes the recommended **weights and thresholds** for estimating various health conditions using voice features. These formulas are simplified approximations, based on research findings, and intended for use in C-based signal processing systems.
 
