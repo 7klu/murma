@@ -34,6 +34,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) 
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat&logo=gnu&logoColor=white)
 
+<br/>
+
 ## `🚧` Status
 
 The project is under active development. Many of the predictive models are based on state-of-the-art research, adapted into an efficient, real-time analysis pipeline.
