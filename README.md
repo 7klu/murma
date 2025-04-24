@@ -42,4 +42,10 @@ The project is under active development. Many of the predictive models are based
 
 <br/>
 
+[![GitHub Activity](https://img.shields.io/github/commit-activity/m/7klu/murma.svg?style=for-the-badge)](https://github.com/7klu/murma/commits)
+[![License](https://img.shields.io/badge/license-GPL-blue.svg?style=for-the-badge)](https://github.com/7klu/murma/blob/main/LICENSE)
+[![Forks](https://img.shields.io/github/forks/7klu/murma?style=for-the-badge)](https://github.com/7klu/murma/fork)
+[![Stars](https://img.shields.io/github/stars/7klu/murma?style=for-the-badge)](https://github.com/7klu/murma/stargazers)
+
+
 Stay tuned — more voice-based insights coming soon.
