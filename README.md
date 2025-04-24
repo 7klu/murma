@@ -1,5 +1,11 @@
 # `🎙️` Murma
 
+[![GitHub Activity](https://img.shields.io/github/commit-activity/m/7klu/murma.svg?style=for-the-badge)](https://github.com/7klu/murma/commits)
+[![License](https://img.shields.io/badge/license-GPL-blue.svg?style=for-the-badge)](https://github.com/7klu/murma/blob/main/LICENSE)
+[![Forks](https://img.shields.io/github/forks/7klu/murma?style=for-the-badge)](https://github.com/7klu/murma/fork)
+[![Stars](https://img.shields.io/github/stars/7klu/murma?style=for-the-badge)](https://github.com/7klu/murma/stargazers)
+
+
 **Murma** is a C-based project designed to analyze a person's voice and estimate a wide range of biometric and health-related attributes. Using advanced signal processing and machine learning techniques, **Murma** transforms vocal data into insightful predictions about the speaker's physical characteristics, emotional state, and potential medical conditions.
 
 > [!NOTE]
@@ -25,8 +31,6 @@
 
 ## `⚙️` Technology
 
-Murma is primarily written in **C**, with integrations of signal processing libraries and bindings where needed for machine learning components. The system processes audio input, extracts relevant features (e.g., MFCCs, formants, spectrograms), and applies trained models to output predictions.
-
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) 
 
 <br/>
@@ -41,11 +45,6 @@ The project is under active development. Many of the predictive models are based
 > Murma is **not a medical diagnostic tool**. It is intended for research and educational purposes only. Always consult a healthcare professional for medical concerns.
 
 <br/>
-
-[![GitHub Activity](https://img.shields.io/github/commit-activity/m/7klu/murma.svg?style=for-the-badge)](https://github.com/7klu/murma/commits)
-[![License](https://img.shields.io/badge/license-GPL-blue.svg?style=for-the-badge)](https://github.com/7klu/murma/blob/main/LICENSE)
-[![Forks](https://img.shields.io/github/forks/7klu/murma?style=for-the-badge)](https://github.com/7klu/murma/fork)
-[![Stars](https://img.shields.io/github/stars/7klu/murma?style=for-the-badge)](https://github.com/7klu/murma/stargazers)
 
 
 Stay tuned — more voice-based insights coming soon.
