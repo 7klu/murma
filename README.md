@@ -31,7 +31,9 @@
 
 ## `⚙️` Technology
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat&logo=gnu&logoColor=white)
+
 
 <br/>
 
