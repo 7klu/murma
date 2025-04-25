@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-
 void get_gender(const float f0, bool *gender) {
 
     if(f0 >= 165.0f) {
